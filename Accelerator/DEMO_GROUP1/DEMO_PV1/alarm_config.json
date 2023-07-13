@@ -1,0 +1,7 @@
+{
+  "user" : "JEM",
+  "host" : "DESKTOP-OK7SAA6",
+  "description" : "DEMO:PV1",
+  "latching" : false,
+  "filter" : "DEMO:PV2 > 10"
+}

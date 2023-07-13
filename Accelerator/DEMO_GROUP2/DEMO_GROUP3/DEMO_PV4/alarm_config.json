@@ -1,0 +1,15 @@
+{
+  "user" : "ctrluser",
+  "host" : "devDesk",
+  "description" : "DEMO:PV4",
+  "latching" : false,
+  "annunciating" : false,
+  "guidance" : [ {
+    "title" : "Procedure1",
+    "details" : "Close Valve"
+  } ],
+  "commands" : [ {
+    "title" : "Command",
+    "details" : "Information"
+  } ]
+}

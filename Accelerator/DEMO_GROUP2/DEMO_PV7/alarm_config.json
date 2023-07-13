@@ -1,0 +1,7 @@
+{
+  "user" : "ctrluser",
+  "host" : "devserver",
+  "description" : "DEMO:PV7",
+  "latching" : false,
+  "annunciating" : false
+}
