@@ -1,7 +1,5 @@
 {
-  "user" : "ctrluser",
-  "host" : "devserver",
-  "description" : "TEST:PV5",
-  "latching" : false,
-  "annunciating" : false
+  "user" : "JEM",
+  "host" : "DESKTOP-OK7SAA6",
+  "description" : "TEST:PV5"
 }

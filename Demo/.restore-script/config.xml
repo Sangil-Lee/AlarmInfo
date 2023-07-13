@@ -32,8 +32,8 @@
       <pv name="TEST:PV5">
         <description>TEST:PV5</description>
         <enabled>true</enabled>
-        <latching>false</latching>
-        <annunciating>false</annunciating>
+        <latching>true</latching>
+        <annunciating>true</annunciating>
       </pv>
     </component>
     <pv name="TEST:PV6">
@@ -45,8 +45,8 @@
     <pv name="TEST:PV7">
       <description>TEST:PV7</description>
       <enabled>true</enabled>
-      <latching>false</latching>
-      <annunciating>false</annunciating>
+      <latching>true</latching>
+      <annunciating>true</annunciating>
     </pv>
   </component>
 </config>
