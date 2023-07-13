@@ -46,7 +46,7 @@
       <description>TEST:PV7</description>
       <enabled>true</enabled>
       <latching>false</latching>
-      <annunciating>false</annunciating>
+      <annunciating>true</annunciating>
     </pv>
   </component>
 </config>
