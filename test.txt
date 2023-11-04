@@ -1,3 +1,5 @@
 Git Force Test
 
-Git Add Someting
+Git Add Something
+
+Add something
