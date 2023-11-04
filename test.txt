@@ -1,2 +1,9 @@
 Git Force Test
+<<<<<<< HEAD
 Test... 
+=======
+
+Git Add Something
+
+Add something
+>>>>>>> 8c9305946e1537f5aced000bfc8c0433ffc21864
