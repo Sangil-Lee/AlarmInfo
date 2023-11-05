@@ -123,10 +123,6 @@
         <title>Proc2</title>
         <details>ctrlslab:tank Action2</details>
       </guidance>
-      <guidance>
-        <title>Proc3</title>
-        <details>ctrlslab:tank Action3</details>
-      </guidance>
       <display>
         <title>Screen1</title>
         <details>C:\phoebus-4.6.10\fishtank\heater.bob</details>
