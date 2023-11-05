@@ -1,0 +1,13 @@
+{
+  "user" : "JEM",
+  "host" : "DESKTOP-OK7SAA6",
+  "description" : "ctrlslab:integral",
+  "guidance" : [ {
+    "title" : "Proc1",
+    "details" : "ctrlslab:integral Action1"
+  } ],
+  "commands" : [ {
+    "title" : "Comm1",
+    "details" : "ctrlslab:Command1"
+  } ]
+}

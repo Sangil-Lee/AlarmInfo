@@ -1,0 +1,24 @@
+{
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
+  "description" : "DEMO:PV7",
+  "latching" : false,
+  "annunciating" : false,
+  "guidance" : [ {
+    "title" : "Check 1",
+    "details" : "Check Valve(ctrlslab:CV7301) Status"
+  }, {
+    "title" : "Proc1",
+    "details" : "Control valve(ctrlslab-CV7301) set to 50%"
+  }, {
+    "title" : "Proc2",
+    "details" : "Wait 2min then monitor Check1"
+  }, {
+    "title" : "Inform1",
+    "details" : "Next shift operator(Mr.John)"
+  } ],
+  "commands" : [ {
+    "title" : "Action1",
+    "details" : "python C:/phoebus-4.6.10/fishtank/scripts/Action1.py"
+  } ]
+}

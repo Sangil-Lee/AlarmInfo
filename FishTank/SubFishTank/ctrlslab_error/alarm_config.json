@@ -1,0 +1,17 @@
+{
+  "user" : "ctrluser",
+  "host" : "localhost.localdomain",
+  "description" : "ctrlslab:error",
+  "latching" : false,
+  "guidance" : [ {
+    "title" : "Proc1",
+    "details" : "Alarm Test"
+  }, {
+    "title" : "Proc2",
+    "details" : "Alarm Test2"
+  } ],
+  "commands" : [ {
+    "title" : "cmd1",
+    "details" : "cmd1"
+  } ]
+}
