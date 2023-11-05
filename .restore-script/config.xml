@@ -127,6 +127,10 @@
         <title>Screen1</title>
         <details>C:\phoebus-4.6.10\fishtank\heater.bob</details>
       </display>
+      <command>
+        <title>Comm1</title>
+        <details>ctrlslab:tank Command1</details>
+      </command>
     </pv>
   </component>
 </config>
